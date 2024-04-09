@@ -8,4 +8,3 @@ print("이름:", name)
 print("학번:", student_id)
 print("학과:", student_major)
 print("학년:", grade) 
- 
